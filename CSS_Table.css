@@ -1,0 +1,15 @@
+table{                         /*silver border around table cells, 1px thick*/
+	Border: 1px solid silver
+}	
+td:hover{                      /* adds hover effect to table */
+	Background-color: yellow;
+	Color: black;
+}         
+tr, th{                      /*table header style*/
+	Background-color: black;
+	Color: cornsilk;
+}
+tr, td{                      /*table cells style*/
+	Background-color: darkgreen;
+	Color: white;
+}
